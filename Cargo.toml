@@ -1,0 +1,11 @@
+[package]
+name = "btrfs-backup"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+dirs = "4.0"
+expanduser = "1.2.2"
+toml = "0.5"
+
